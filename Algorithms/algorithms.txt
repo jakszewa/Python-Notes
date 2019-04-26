@@ -1,0 +1,14 @@
+What is an Algorithm?
+
+Set of steps taken to solve a specific problem is called Algorithm.
+
+* Algorithm complexity
+    Space complexity: How much memory does it require?
+    Time complexity: How much time does it take to complete?
+* Inputs & Outputs
+    What does the algorithm accept, and what are the results?
+
+* Classification
+    Serial/parallel, exact/approximate,
+    deterministic/non-deterministic
+
