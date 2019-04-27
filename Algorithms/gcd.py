@@ -8,3 +8,18 @@ def gcd(a,b):
 
 print(gcd(12,8))
 
+'''
+Explanation:
+
+a and b
+a > b
+divide a by b
+r == 0 then stop GCD is b
+
+otherwise set a to b & b to r
+repeat step 1 until r is 0
+
+a 	b 	r
+20 	8 	4
+8 	4 	0
+'''

@@ -2,13 +2,26 @@ What is an Algorithm?
 
 Set of steps taken to solve a specific problem is called Algorithm.
 
-* Algorithm complexity
+ * Algorithm complexity
     Space complexity: How much memory does it require?
     Time complexity: How much time does it take to complete?
-* Inputs & Outputs
+ * Inputs & Outputs
     What does the algorithm accept, and what are the results?
 
-* Classification
+ * Classification
     Serial/parallel, exact/approximate,
     deterministic/non-deterministic
+
+Understanding Algorithm Performance
+
+ * Measure how an algorithm responds to dataset size
+ * Big-O notation (Used to describe algorithm performance)
+    Classifies performance as the input size grows
+    'O' indicates the order of operation: time scale to perform an operation
+     (worst case scenario of how long it takes to perform a given operation)
+ * Many algorithm and data structure have more than one O
+    Inserting data, searching for data, deleting data, etc.
+     (each of which has there own order of operation)
+
+Common Big-O Terms
 
