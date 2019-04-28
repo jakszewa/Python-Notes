@@ -25,3 +25,16 @@ Understanding Algorithm Performance
 
 Common Big-O Terms
 
+ Notation       Description     Example
+ O(1)           Contant Time    Looking up a single element in an array
+ O(log n)       Logarithmic     Finding an item in a sorted array with a
+                                binary searching
+ O(n)           Linear time     Searching an unsorted array for a specific
+                                value
+ O(n log n)     Log-Linear      Complex sorting algorithm like heap sorted 
+                                and merge sort
+ O(n^2)         Quadratic       Simple sorting algorithm, such as bubble
+                                sort, selection sort, and insertion sort
+
+Overview of Data Structure
+
