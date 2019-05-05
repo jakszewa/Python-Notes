@@ -11,7 +11,7 @@ Note that "" represents the values in between.
 
 def counter(n):
     for i in range(1, n+1):
-        print(i, end = '')
+        print(i,end='')
 
 if __name__ == '__main__':
     n = int(input())
