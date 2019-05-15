@@ -18,7 +18,10 @@ class LinkedStack:
         return self._size == 0
 
     def push(self,e):
-        self._head = self._Node(e,self._head)
+        self._head = self._Node(e,self._head)   # next = self._head 
+                                                # because currently its the only Node
+                                                # and it will be next Node for new Node
+                                                # & then self._head is reset to HEAD
         self._size +=1
 
     def top(self):
