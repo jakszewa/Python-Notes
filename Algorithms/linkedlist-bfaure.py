@@ -126,4 +126,4 @@ class linked_list:
 			if cur_idx==index: 
 				cur_node.data=data
 				return
-cur_idx+=1
+            cur_idx+=1
