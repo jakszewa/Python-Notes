@@ -15,3 +15,10 @@ print(message.replace('Happy', ':D'))
 
 print(message)
 
+# reverse function
+
+countdown = [1, 2, 3]
+
+countdown.reverse()
+
+print(countdown)
