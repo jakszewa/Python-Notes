@@ -15,5 +15,5 @@ def counter(n):
         print(i,end='')
 
 if __name__ == '__main__':
-    n = int(input())
-    counter(n)
+    n = int(input())          #giving input to funcation's argument/parameter
+    counter(n)                #calling function
