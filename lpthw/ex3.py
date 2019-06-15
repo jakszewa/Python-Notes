@@ -1,6 +1,7 @@
 # TAGS: math , numbers
 # How to do math?
 # How to get 'True or False' as answer
+# PEMDAS: Parentheses Exponents Multiplication Division Addition Subtraction
 
 print("I will now count my chickens: ")
 
